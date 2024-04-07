@@ -1,0 +1,62 @@
+body{
+
+    padding: 0;
+    margin: 0;
+    font-family: 'Trispace', sans-serif;
+
+}
+
+.hero-section{
+
+    background: url("picture/main.jpg") no-repeat center;
+    background-size: cover;
+    height: 80vh;
+    width: 100%;
+    color:greenyellow ;
+    display:flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.about-section{
+
+    background: rgba(245,245,245,0.5);
+    padding: 9rem 0 !important;
+}
+
+.service-section{
+
+    padding: 9rem 0 !important;
+}
+
+.contact-section{
+
+    background: rgba(245,245,245,0.5);
+}
+
+textarea{
+
+    resize:none
+}
+@media screen and (max-width: 1200px) {
+
+    form{
+
+        width:800px !important;
+    }
+    
+}
+
+@media screen and (max-width: 920px) {
+
+    form{
+
+        width:100% !important;
+    }
+}
+
+.carousel-inner{
+
+    height: 80vmax;
+
+}
