@@ -4,4 +4,6 @@ This website dealing with the sale, buy and rental of ships.
 The website uses bootstrap.
 
 # Technologies Used
-Html, Css, Javascript
+- Html
+- Css
+- Javascript
